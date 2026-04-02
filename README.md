@@ -91,5 +91,4 @@ This project helps in understanding AMBA APB protocol, master-slave communicatio
 ## Conclusion
 
 The APB protocol provides a simple and reliable communication mechanism for low-speed peripheral devices in SoC design. Its structured timing, FSM-based control, and straightforward master-slave communication make it an ideal protocol for beginners to learn and implement. Through this project, the theoretical understanding of APB is combined with practical Verilog implementation and simulation, providing a complete view of protocol design and verification.
-
-If you want, I can now **optimize this README for GitHub SEO (keywords, stars visibility, recruiter-friendly first 5 lines)** or **shorten it to 2-page version**.
+.
